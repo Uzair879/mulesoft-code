@@ -13,4 +13,4 @@ INSERT INTO movies VALUES ('chup chup ke','Shahid','malaika',2015,'SONAL');
 INSERT INTO movies VALUES ('hulchul','Shahrukh','preeti',2016,'VANDHANA');
 
 SELECT * FROM movies;
-SELECT * FROM movies where lead_actor='Salman';s
+SELECT * FROM movies where lead_actor='Salman';
